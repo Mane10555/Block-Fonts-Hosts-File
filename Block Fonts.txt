@@ -37,3 +37,6 @@
 0.0.0.0 fonts.bauernet.me
 0.0.0.0 fonts.condenast.com
 0.0.0.0 fonts.gotraffic.net
+0.0.0.0 fontzone.net
+0.0.0.0 use.fontspring.com
+0.0.0.0 fonts.fontspring.com
