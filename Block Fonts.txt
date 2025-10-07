@@ -41,3 +41,10 @@
 0.0.0.0 use.fontspring.com
 0.0.0.0 fonts.fontspring.com
 0.0.0.0 kit.fontawesome.com
+0.0.0.0 fontsquirrel.com
+0.0.0.0 api.fontshare.com
+0.0.0.0 fonts.fontshare.com
+0.0.0.0 webfonts.paratype.com
+0.0.0.0 webfonts.urwpp.de
+0.0.0.0 fonts.rosettatype.com
+0.0.0.0 fonts.daltonmaag.com
